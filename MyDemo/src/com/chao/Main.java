@@ -8,4 +8,7 @@ package com.chao;
  */
 public class Main {
     //dasdsaafafa
+    public static void main(String[] args) {
+        System.out.println("asdadass");
+    }
 }
